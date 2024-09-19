@@ -1,5 +1,5 @@
 import React from "react";
-import Profile from "./components/Profile/Profil";
+import Profile from "./components/Profile/Profile";
 import userData from "./userData.json";
 import FriendList from "./components/FriendList/FriendList";
 import friends from "./friends.json";
