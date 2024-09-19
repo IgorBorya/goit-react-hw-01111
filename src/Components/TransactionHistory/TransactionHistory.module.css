@@ -1,0 +1,26 @@
+.tableContainer {
+  margin-top: 60px;
+}
+
+.table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+}
+
+.th {
+  background-color: darkslategrey;
+  color: #fff;
+}
+
+tr {
+  border: 1px solid black;
+}
+
+td {
+  border: 1px solid black;
+}
+
+.trEven {
+  background-color: darkgrey;
+}
